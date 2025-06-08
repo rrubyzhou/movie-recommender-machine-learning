@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: small package for movie recommendations
+Home-page: UNKNOWN
+Author: Ruby Zhou
+Author-email: r227zhou@uwaterloo.ca
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+
+Movie Recommender System using Machine Learning
+
+
